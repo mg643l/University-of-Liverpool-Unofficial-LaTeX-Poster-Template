@@ -1,0 +1,33 @@
+# LaTeX intermediate/build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+
+# Build directories and caches
+_build/
+auto/
+latex.out/
+_minted*/
+
+# Auxiliary editor swap/backup files
+*.swp
+*.swo
+*~
+
+# Keep PDFs tracked intentionally (no *.pdf ignore rule)
