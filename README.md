@@ -1,5 +1,7 @@
 # Unofficial University of Liverpool Poster Template
 
+![Poster Screenshot](figures/poster.png)
+
 This repository contains an unofficial LaTeX beamer poster template for the University of Liverpool.
 
 The color palette uses the official University of Liverpool brand colours, sourced from:
