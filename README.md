@@ -4,11 +4,20 @@
 
 This repository contains an unofficial LaTeX beamer poster template for the University of Liverpool.
 
+## Fork Lineage
+
+This repository is forked from the University of Lethbridge unofficial poster template on Overleaf:
+https://www.overleaf.com/latex/templates/university-of-lethbridge-unofficial-poster-template/nddfzgvqvfwf
+
+The original upstream template is forked from Gemini:
+https://github.com/anishathalye/gemini?tab=readme-ov-file
+
 The color palette uses the official University of Liverpool brand colours, sourced from:
 https://www.liverpool.ac.uk/intranet/brand/
 
 ## Copyright
 
+Copyright (c) Anish Athalye (me@anishathalye.com)
 Copyright (c) 2026 Joseph Wood (845jwood@gmail.com)
 
 ## License
